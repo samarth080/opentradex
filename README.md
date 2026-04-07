@@ -279,4 +279,4 @@ If you want the simpler package flow instead, use `npm install -g opentradex@lat
 | Dashboard | Next.js 16, React 19, Tailwind CSS, TypeScript |
 | Agent memory | SOUL.md (identity) + strategy_notes.md (experience) |
 
----
+--
